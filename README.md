@@ -1,1 +1,1 @@
-
+This is a basic CRUD (create, read, update, and delete) application built to learn TypeScript. The application allows the user to perform basic CRUD operations on a set of data, such as adding new entries, viewing existing entries, updating existing entries, and deleting entries.
